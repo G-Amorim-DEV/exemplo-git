@@ -1,2 +1,1 @@
-# exemplo-git
-Experências usando GIT e o GITHUB
+# Experências usando GIT e o GITHUB
